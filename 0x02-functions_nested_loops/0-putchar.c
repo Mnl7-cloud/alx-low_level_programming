@@ -3,6 +3,7 @@
 /**
  * main - Print _putchar
  * Description: 'prints -putchar to stdout'
+ *
  * Return: Always 0
  */
 int main(void)
